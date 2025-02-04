@@ -23,7 +23,7 @@ namespace ButterflyHealthCareAPI.Controllers
         }
 
         /// <summary>
-        /// Substracting first number from the second number, returning the result
+        /// Substracting second number from the first number, returning the result
         /// </summary>
         /// <param name="firstNumber">The first number.</param>
         /// <param name="secondNumber">The second number.</param>
